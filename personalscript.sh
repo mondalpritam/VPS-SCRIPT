@@ -348,13 +348,13 @@ color="#00FFE2"<br>┏━━━━━━━━━━━━━━━┓<br>𝐔�
 color="#00FF00"></strong> <p style="text-align:center"><b> <br><font 
 color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br><font 
 color='#FFFF00'><b> ★ [ 𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊 ] ★ 
-</b></font><br><font color="#FFF00">PAID SCRIPT</font><br> <font color="#FF00FF">❖Ƭʜᴇ No DDOS</font><br> 
+</b></font><br><font color="#FFF00">SCRIPT BY PRITAM</font><br> <font color="#FF00FF">❖Ƭʜᴇ No DDOS</font><br> 
 <font color="#FF0000">❖Ƭʜᴇ No XXX/font><br> <font 
 color="#FFB1C2">❖Ƭʜᴇ No BP </font><br> <font color="#FFFFFF">❖Ƭʜᴇ No 
 Hacking</font><br> <font color="#00FF00">❖Ƭʜᴇ No PORN</font><br> <font 
 color="#00FF00">▄︻デ𝐔𝐍𝐈𝐕𝐄𝐑𝐒𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊══━一 </font><br> <font 
 color="#00FFE2">क═══════क⊹⊱✫⊰⊹क═══════क</font><br></font><br><font 
-color="FFFF00">@universe9720</font><br>
+color="FFFF00">BY-PRITAM</font><br>
 END
 cd
 chown -R www-data:www-data /home/vps/public_html
